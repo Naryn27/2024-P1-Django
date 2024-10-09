@@ -1,0 +1,6 @@
+1. v projekte 03 django vytvorit aplikaciukalkulackua naprogramovat kalkulacku 
+pri  odpocitavani bude odpocitacvat menisie cislo od vacsieho
+doprogramvat mocnini a nastilovat kalkulacku html css bootstrap
+
+2.python.input.sk
+-nastudovat a natrenovat 1 A 2 kapitolu 
